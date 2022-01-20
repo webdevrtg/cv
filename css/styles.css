@@ -1,0 +1,28 @@
+ /* Selector{property:value;}
+     Who      What    How */
+
+
+  body {
+    background-color: #fefaf6;
+  }
+  img {
+    border-radius: 50%;
+  }
+  table {
+  border-spacing: 15px;
+}
+  hr {
+    border-style: none;
+    width: 20%;
+    border-top: 5px dotted lightgrey;
+  }
+
+  h1 {
+    color: #1C7947;
+    font-family: fantasy;
+  }
+
+  h3 {
+    color: #39A388;
+    font-family: cursive;
+  }
